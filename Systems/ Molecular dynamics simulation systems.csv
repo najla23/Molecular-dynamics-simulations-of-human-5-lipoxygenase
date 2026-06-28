@@ -1,0 +1,14 @@
+Parameter,ATP-,ATP+,ATP+out,ATP+K320L
+Protein,"1 (5-LOX)","1 (5-LOX)","1 (5-LOX)","1 (5-LOX)"
+ATP,—,1,1,1
+Fe²⁺ ion,1,1,1,1
+Na⁺ ions,167,171,171,172
+Cl⁻ ions,151,151,151,151
+TIP3P water molecules,53005,53001,53005,53018
+Total atoms,170231,170266,170278,170315
+Simulation box (Å),"122 × 122 × 122","122 × 122 × 122","122 × 122 × 122","122 × 122 × 122"
+Energy minimization,Yes,Yes,Yes,Yes
+NVT equilibration,10 ns,10 ns,10 ns,10 ns
+NPT equilibration,300 ns,300 ns,300 ns,300 ns
+Production MD,300 ns,300 ns,300 ns,300 ns
+Independent replicas,5,5,5,5
