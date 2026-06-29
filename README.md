@@ -10,7 +10,7 @@ Using extensive multi-replica molecular dynamics simulations together with struc
 
 
 <p align="center">
-  <img src="lox.png" alt="Overall structure of human 5-LOX" width="350"/>
+  <img src="lox.png" alt="Overall structure of human 5-LOX" width="340"/>
   &nbsp;&nbsp;&nbsp;
   <img src="lox-ATP.png" alt="ATP-binding site of human 5-LOX" width="400"/>
 </p>
