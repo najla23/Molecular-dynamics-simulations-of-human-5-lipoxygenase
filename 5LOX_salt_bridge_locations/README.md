@@ -16,6 +16,14 @@ The viewer allows interactive rotation, zooming, inspection of individual residu
 
 
 
+### Really important note
+
+Salt bridges in this viewer are shown only to map the relevant residue pairs onto a single static 5-LOX structure. The quantitative results reported in the manuscript were obtained from the dynamic MD trajectories, not from this static structure.
+
+Therefore, distances visible here do not represent the distances sampled during the simulations and should not be interpreted as measures of salt-bridge occupancy, persistence, or interaction strength.
+
+
+
 The PyMOL session is also available in this directory:
 
 `5LOX_salt_bridge_locations.pse`
