@@ -30,3 +30,7 @@ Pandas
 Matplotlib
 PyMOL
 
+
+
+[![Hits](https://hits.sh/github.com/najla23/Molecular-dynamics-simulations-of-human-5-lipoxygenase.svg)](https://hits.sh/github.com/najla23/Molecular-dynamics-simulations-of-human-5-lipoxygenase/)
+
